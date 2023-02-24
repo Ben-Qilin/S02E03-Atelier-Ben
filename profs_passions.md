@@ -26,10 +26,10 @@
 
 ## Pauline
 
--🎮 : Finir Hades
--🎮 : Débloquer tous les succès sur Isaac
--📕 : Finir Fire & Blood
--🎲 : Préparer une campagne de D&D
--🧗‍♀️ : Réussir une voie en 6c
--🎲 : Préparer une campagne de Aria
--🗿 : Créer une figurine et la peindre
+- 🎮 : Finir Hades
+- 🎮 : Débloquer tous les succès sur Isaac
+- 📕 : Finir Fire & Blood
+- 🎲 : Préparer une campagne de D&D
+- 🧗‍♀️ : Réussir une voie en 6c
+- 🎲 : Préparer une campagne de Aria
+- 🗿 : Créer une figurine et la peindre
